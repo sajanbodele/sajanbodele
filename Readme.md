@@ -17,19 +17,18 @@ Currently obsessed with understanding how great products go from 0 → 1 and how
 
 
 ## 🚀 Currently Building
-- **[ChalotripBot](https://github.com/Anmoll-W/blog/blob/main/series/building-chalotripbot.md)**: Build story. Telegram bot for group trip planning, budgets, and bill splits.
-- **[BlinkFit](https://github.com/Anmoll-W/blinkfit)**: Case study. Peak-hour decision support for dark store managers, context-aware alert ranking for Blinkit's 6-10 PM window.
-- **[BharatCRM](https://github.com/Anmoll-W/bharatcrm)**: Case study. WhatsApp-first CRM for T2/T3 India founders. Complete product strategy from 500 founder interviews.
-- **[youtube-longform](https://github.com/Anmoll-W/youtube-longform)**: Case study. Product spec for fixing YouTube's algorithm bias against long-form. 
-
+- **[Flipkart Post-Purchase Experience](https://github.com/sajanbodele/Flipkart-Post-Purchase-Experience)** → Unified returns, warranty, installation, setup, and support into a seamless post-purchase lifecycle platform.
+- **[Storemate](https://github.com/sajanbodele/Storemate)** → AI-powered platform for modern online commerce.
+- **[EnvCube](https://github.com/sajanbodele/EnvCube)** → Interactive 3D cube with immersive 360° HDR reflections.
+- **[Typespace](https://github.com/sajanbodele/Typespace)** → Immersive 3D typography experience inspired by San Francisco.
 
 ## 🛠 Tech Stack
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge\&logo=confluence\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-%23F2CA02.svg?style=for-the-badge\&logo=miro\&logoColor=black)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge\&logo=confluence\&logoColor=white)
 ![Asana](https://img.shields.io/badge/asana-F06A6A.svg?style=for-the-badge\&logo=asana\&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge\&logo=clickup\&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge\&logo=Trello\&logoColor=white)
