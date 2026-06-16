@@ -6,13 +6,14 @@ Civil engineer who found his way into product.
 
 I'm learning product management by doing it—breaking down products, writing PRDs, solving PM case studies, building MVPs, and creating portfolio projects to understand how great products are designed, launched, and scaled.
 
-### 🎯 My Focus
+Focused on:
+- Understanding users and uncovering problems
+- Product strategy and systems thinking
+- Growth, experimentation and analytics
+- Building AI-native products and workflows
 
-* Understanding users deeply
-* Thinking in systems
-* Building products that create measurable value
+Currently obsessed with understanding how great products go from 0 → 1 and how AI changes the way products are built.
 
-Currently obsessed with AI-native product thinking, growth, and learning how great products get built from zero to one.
 
 <br clear="right"/>
 
