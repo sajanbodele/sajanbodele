@@ -50,3 +50,21 @@ Currently obsessed with understanding how great products go from 0 → 1 and how
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajanbodele&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajanbodele/sajanbodele/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajanbodele/sajanbodele/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sajanbodele/sajanbodele/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<sub>Building AI-powered products that solve real user problems. Open to Product Intern, APM, and Product Analyst opportunities.</sub>
