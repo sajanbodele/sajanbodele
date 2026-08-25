@@ -56,13 +56,29 @@ Currently obsessed with understanding how great products go from 0 → 1 and how
 
 ## 📊 Skill Radar
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-dark.svg" width="500" alt="Product management skill radar">
-  </picture>
-</p>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="Product management skill radar">
+</picture>
+
+</td>
+
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-toolkit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-toolkit-light.svg">
+  <img src="assets/radar-toolkit-dark.svg" width="400" alt="Product toolkit radar">
+</picture>
+
+</td>
+</tr>
+</table>
 
 ## 📈 GitHub Contributions
 
