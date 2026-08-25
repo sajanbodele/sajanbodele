@@ -31,12 +31,12 @@
 
 </g>
 
-<text x="0.0" y="-237.0" text-anchor="middle" font-size="13" font-weight="600" fill="#c9d1d9">Product Strategy</text>
-<text x="181.4" y="-149.6" text-anchor="start" font-size="13" font-weight="600" fill="#c9d1d9">Product Discovery</text>
-<text x="226.2" y="55.6" text-anchor="start" font-size="13" font-weight="600" fill="#c9d1d9">Product Analytics</text>
+<text x="0.0" y="-237.0" text-anchor="middle" font-size="13" font-weight="600" fill="#c9d1d9">Strategy</text>
+<text x="181.4" y="-149.6" text-anchor="start" font-size="13" font-weight="600" fill="#c9d1d9">Discovery</text>
+<text x="226.2" y="55.6" text-anchor="start" font-size="13" font-weight="600" fill="#c9d1d9">Analytics</text>
 <text x="100.7" y="223.0" text-anchor="start" font-size="13" font-weight="600" fill="#c9d1d9">Growth</text>
-<text x="-100.7" y="223.0" text-anchor="end" font-size="13" font-weight="600" fill="#c9d1d9">User Research</text>
-<text x="-226.2" y="55.6" text-anchor="end" font-size="13" font-weight="600" fill="#c9d1d9">AI Product</text>
+<text x="-100.7" y="223.0" text-anchor="end" font-size="13" font-weight="600" fill="#c9d1d9">Research</text>
+<text x="-226.2" y="55.6" text-anchor="end" font-size="13" font-weight="600" fill="#c9d1d9">AI</text>
 <text x="-181.4" y="-149.6" text-anchor="end" font-size="13" font-weight="600" fill="#c9d1d9">Execution</text>
 
 </g>
