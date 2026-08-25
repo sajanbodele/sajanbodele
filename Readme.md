@@ -51,6 +51,32 @@ Currently obsessed with understanding how great products go from 0 → 1 and how
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
 
+## 📊 Skill Radar
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="Skill radar chart">
+</picture>
+
+</td>
+
+<td width="50%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="Language radar chart">
+</picture>
+
+</td>
+</tr>
+</table>
+
 ## 📈 GitHub Contributions
 
 <p align="center">
