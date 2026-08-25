@@ -19,15 +19,17 @@ jobs:
       - name: Generate language statistics
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/metrics.languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: sajanbodele
           template: classic
-          base: ""
+
+          filename: assets/metrics.languages.svg
+
+          base: repositories
+
           config_timezone: Asia/Kolkata
 
           plugin_languages: yes
-          plugin_languages_ignored: HTML,CSS
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
