@@ -1,0 +1,33 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate language statistics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: sajanbodele
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_ignored: HTML,CSS
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
